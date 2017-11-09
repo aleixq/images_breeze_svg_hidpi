@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16pt" height="14.000004pt" viewBox="0 0 16 14.000004" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="16" height="14.000004" style="fill:rgb(0%,0%,0%);fill-opacity:0.717647;stroke:none;"/>
+  </g>
+</mask>
+<radialGradient id="radial0" gradientUnits="userSpaceOnUse" cx="11" cy="1041.3622" fx="11" fy="1041.3622" r="8" gradientTransform="matrix(-1,0.00000940625,-0.00001076,-0.875011,23.01121,924.203671)">
+<stop offset="0" style="stop-color:rgb(70.196078%,70.196078%,70.196078%);stop-opacity:0;"/>
+<stop offset="0.795008" style="stop-color:rgb(30.196078%,30.196078%,30.196078%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(30.196078%,30.196078%,30.196078%);stop-opacity:0;"/>
+</radialGradient>
+<clipPath id="clip1">
+  <rect width="24" height="25"/>
+</clipPath>
+<g id="surface6" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#radial0);" d="M 12 6 C 7.582031 6 4 9.132812 4 13 C 4 16.867188 7.582031 20 12 20 C 16.417969 20 20 16.867188 20 13 C 20 9.132812 16.417969 6 12 6 M 12 9.5 C 14.210938 9.5 16 11.066406 16 13 C 16 14.933594 14.210938 16.5 12 16.5 C 9.789062 16.5 8 14.933594 8 13 C 8 11.066406 9.789062 9.5 12 9.5 "/>
+</g>
+<radialGradient id="radial1" gradientUnits="userSpaceOnUse" cx="15" cy="1037.3622" fx="15" fy="1037.3622" r="8" gradientTransform="matrix(-0.644033,-0.427741,0.310382,-0.3578,-300.31851,381.084668)">
+<stop offset="0" style="stop-color:rgb(70.196078%,70.196078%,70.196078%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(30.196078%,30.196078%,30.196078%);stop-opacity:0;"/>
+</radialGradient>
+<radialGradient id="radial2" gradientUnits="userSpaceOnUse" cx="15" cy="1037.3622" fx="15" fy="1037.3622" r="8" gradientTransform="matrix(0.644033,0.427741,-0.310382,0.3578,316.31851,-367.084663)">
+<stop offset="0" style="stop-color:rgb(70.196078%,70.196078%,70.196078%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(30.196078%,30.196078%,30.196078%);stop-opacity:0;"/>
+</radialGradient>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(30.196078%,30.196078%,30.196078%);fill-opacity:0.835294;" d="M 8 0 C 3.582031 0 0 3.132812 0 7 C 0 10.867188 3.582031 14 8 14 C 12.417969 14 16 10.867188 16 7 C 16 3.132812 12.417969 0 8 0 M 8 3.5 C 10.210938 3.5 12 5.066406 12 7 C 12 8.933594 10.210938 10.5 8 10.5 C 5.789062 10.5 4 8.933594 4 7 C 4 5.066406 5.789062 3.5 8 3.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(30.196078%,30.196078%,30.196078%);fill-opacity:0.470588;" d="M 2.84375 1.65625 C 1.042969 2.984375 0.00390625 4.9375 0 7 C 0 10.867188 3.582031 14 8 14 C 10.382812 14 12.640625 13.070312 14.15625 11.464844 C 12.714844 12.535156 10.890625 13.121094 9 13.125 C 4.582031 13.125 1 9.992188 1 6.125 C 1 4.492188 1.652344 2.910156 2.84375 1.65625 "/>
+<use xlink:href="#surface6" transform="matrix(1,0,0,1,-4,-6)" mask="url(#mask0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#radial1);" d="M 8 0 C 3.582031 0 0 3.132812 0 7 C 0 10.867188 3.582031 14 8 14 C 12.417969 14 16 10.867188 16 7 C 16 3.132812 12.417969 0 8 0 M 8 3.5 C 10.210938 3.5 12 5.066406 12 7 C 12 8.933594 10.210938 10.5 8 10.5 C 5.789062 10.5 4 8.933594 4 7 C 4 5.066406 5.789062 3.5 8 3.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#radial2);" d="M 8 14 C 12.417969 14 16 10.867188 16 7 C 16 3.132812 12.417969 0 8 0 C 3.582031 0 0 3.132812 0 7 C 0 10.867188 3.582031 14 8 14 M 8 10.5 C 5.789062 10.5 4 8.933594 4 7 C 4 5.066406 5.789062 3.5 8 3.5 C 10.210938 3.5 12 5.066406 12 7 C 12 8.933594 10.210938 10.5 8 10.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(30.196078%,30.196078%,30.196078%);fill-opacity:0.470588;" d="M 13 6.5625 C 13 4.386719 10.984375 2.625 8.5 2.625 C 6.015625 2.625 4 4.386719 4 6.5625 C 4 6.644531 4.003906 6.730469 4.011719 6.8125 C 4.125 4.957031 5.875 3.5 8 3.5 C 10.210938 3.5 12 5.066406 12 7 C 12 8.832031 10.382812 10.355469 8.292969 10.488281 C 8.363281 10.496094 8.429688 10.5 8.5 10.5 C 10.984375 10.5 13 8.738281 13 6.5625 Z M 13 6.5625 "/>
+</g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25.001849pt" height="22pt" viewBox="0 0 25.001849 22" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="414.57144" y1="523.79797" x2="414.57144" y2="505.798" gradientTransform="matrix(0.420874,0,0,0.422884,-163.106781,-213.88858)">
+<stop offset="0" style="stop-color:rgb(23.921569%,39.607843%,51.764706%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(29.019608%,48.235294%,63.921569%);stop-opacity:1;"/>
+</linearGradient>
+<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="384.57144" y1="477.798" x2="404.57144" y2="497.798" gradientTransform="matrix(0.420874,0,0,0.423077,-163.106781,-207.22223)">
+<stop offset="0" style="stop-color:rgb(20.392157%,33.72549%,44.313725%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(20.392157%,33.72549%,44.313725%);stop-opacity:0;"/>
+</linearGradient>
+<linearGradient id="linear2" gradientUnits="userSpaceOnUse" x1="414.57144" y1="541.79797" x2="414.57144" y2="499.798" gradientTransform="matrix(0.431034,0,0,0.422939,-167.054801,-207.14763)">
+<stop offset="0" style="stop-color:rgb(38.431373%,59.607843%,83.529412%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(54.117647%,71.764706%,88.235294%);stop-opacity:1;"/>
+</linearGradient>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 1 0 L 1 2 L 1.007812 11.039062 C 1.007812 11.273438 0.796875 11.847656 1.03125 11.847656 L 23.582031 11.847656 C 23.8125 11.847656 24.003906 11.65625 24.003906 11.421875 L 23.984375 1.945312 L 24.003906 2 L 12.003906 2 L 10.953125 0 Z M 1 0 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:url(#linear1);" d="M 1 0 L 12 11 L 11.796875 11.421875 L 24 4.339844 L 24 2 L 12 2 L 11 0 Z M 1 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear2);" d="M 8 4 L 7 6 L 0 6 C 0 5 -0.00390625 5.992188 0 6 L 0 22 L 25 22 L 25 4 Z M 8 4 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(18.431373%,42.745098%,69.019608%);fill-opacity:1;" d="M 0 21 L 0 22 L 25 22 L 25 21 Z M 0 21 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(56.078431%,69.411765%,80%);fill-opacity:1;" d="M 24 2 L 24 3 L 12 3 L 11 0 L 13 2 Z M 24 2 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:0.235294;" d="M 0 6 L 0 7 L 7 7 L 8 4 L 7 6 Z M 0 6 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(20.392157%,33.72549%,44.313725%);fill-opacity:1;" d="M 1 5 L 1 6 L 7 6 L 8 4 L 6 5 Z M 1 5 "/>
+</g>
+</svg>

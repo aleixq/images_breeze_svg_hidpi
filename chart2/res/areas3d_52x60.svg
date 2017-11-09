@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60pt" height="52pt" viewBox="0 0 60 52" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="49.973682" y1="1054.9335" x2="49.973682" y2="1008.8621" gradientTransform="matrix(4.222222,0,0,0.933333,-180,-938.60458)">
+<stop offset="0" style="stop-color:rgb(13.333333%,65.490196%,94.117647%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(9.803922%,70.980392%,99.607843%);stop-opacity:1;"/>
+</linearGradient>
+<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="15.9375" y1="1046.3622" x2="16.026314" y2="958.36206" gradientTransform="matrix(4.222222,0,0,0.5,-40.666659,-477.18102)">
+<stop offset="0" style="stop-color:rgb(96.470588%,14.117647%,34.901961%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(96.862745%,21.568627%,40.784314%);stop-opacity:1;"/>
+</linearGradient>
+</defs>
+<g id="surface1">
+<rect x="0" y="0" width="60" height="52" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(30.196078%,30.196078%,30.196078%);stroke-opacity:1;stroke-miterlimit:4;" d="M 12 1040.3622 L 3 1049.3622 " transform="matrix(1,0,0,1,0,-1000.3622)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(30.196078%,30.196078%,30.196078%);fill-opacity:1;" d="M 11 40.007812 L 57 40.007812 L 57 40.992188 L 11 40.992188 Z M 11 40.007812 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(30.196078%,30.196078%,30.196078%);fill-opacity:1;" d="M 11 3 L 12 3 L 12 41 L 11 41 Z M 11 3 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 10 22 L 10 25 L 29.875 19 L 48 31 L 48 22 L 29 10 Z M 10 22 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear1);" d="M 10 25 L 29.875 19 L 48 31 L 48 46 L 10 46 Z M 10 25 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(54.509804%,81.960784%,96.862745%);fill-opacity:1;" d="M 29 10 L 10 22 L 14 19 L 33 7 Z M 29 10 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(38.431373%,75.686275%,95.686275%);fill-opacity:1;" d="M 48 22 L 48 31 L 51 28 L 51 19 Z M 48 22 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(97.254902%,33.72549%,49.803922%);fill-opacity:1;" d="M 48 31 L 48 46 L 51 43 L 51 28 Z M 48 31 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(54.509804%,81.960784%,96.862745%);fill-opacity:1;" d="M 48 22 L 29 10 L 33 7 L 51 19 Z M 48 22 "/>
+</g>
+</svg>

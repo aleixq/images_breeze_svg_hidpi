@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28pt" height="28pt" viewBox="0 0 28 28" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="26.21154" y1="43.999989" x2="26.21154" y2="6.999989" gradientTransform="matrix(-0.756757,0,0,0.756757,33.2973,-5.29728)">
+<stop offset="0" style="stop-color:rgb(98.039216%,68.235294%,16.470588%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(100%,76.470588%,35.294118%);stop-opacity:1;"/>
+</linearGradient>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="28" height="28" style="fill:rgb(0%,0%,0%);fill-opacity:0.2;stroke:none;"/>
+  </g>
+</mask>
+<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="17.000002" y1="12.999999" x2="45.000004" y2="41" gradientTransform="matrix(0.538462,0,0,0.538462,-1.23077,-1.23077)">
+<stop offset="0" style="stop-color:rgb(16.078431%,17.254902%,18.431373%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(0%,0%,0%);stop-opacity:0;"/>
+</linearGradient>
+<clipPath id="clip1">
+  <rect width="32" height="32"/>
+</clipPath>
+<g id="surface6" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear1);" d="M 16 6 L 16 8 L 22.460938 18.039062 L 22.839844 18.691406 L 9 19 L 14 24 L 16.378906 22.433594 L 30 22.433594 L 30 20 Z M 16 6 "/>
+</g>
+<linearGradient id="linear2" gradientUnits="userSpaceOnUse" x1="16" y1="29.999973" x2="16" y2="2" gradientTransform="matrix(1.076923,0,0,-1.076923,-3.23077,25.30769)">
+<stop offset="0" style="stop-color:rgb(98.823529%,85.098039%,58.039216%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(100%,96.470588%,88.235294%);stop-opacity:1;"/>
+</linearGradient>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 0 0 L 0 21 L 7 21 L 7 28 L 14 21 L 28 21 L 28 0 Z M 0 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(89.803922%,57.647059%,1.960784%);fill-opacity:1;" d="M 0 19.894531 L 0 21 L 7 21 L 7 20 Z M 14 20 L 7 27 L 7 28 L 14 21 L 28 21 L 28 20 Z M 14 20 "/>
+<use xlink:href="#surface6" transform="matrix(1,0,0,1,-2,-2)" mask="url(#mask0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear2);" d="M 14 4 L 7 17 L 21 17 Z M 14 6.109375 L 19.328125 16 L 8.671875 16 Z M 13.5 8 L 13.5 13 L 14.5 13 L 14.5 8 Z M 13.5 14 L 13.5 15 L 14.5 15 L 14.5 14 Z M 13.5 14 "/>
+</g>
+</svg>

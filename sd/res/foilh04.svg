@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62.00004pt" height="48pt" viewBox="0 0 62.00004 48" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="798" y1="958.21936" x2="798" y2="912.21936" gradientTransform="matrix(1.033333,0,0,1.043478,-795.666681,-951.881088)">
+<stop offset="0" style="stop-color:rgb(74.117647%,76.470588%,78.039216%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(85.490196%,87.45098%,88.235294%);stop-opacity:1;"/>
+</linearGradient>
+<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="34" y1="47.000004" x2="34" y2="18.000004" gradientTransform="matrix(1.038462,0,0,1.37931,-4.30769,-20.82759)">
+<stop offset="0" style="stop-color:rgb(36.862745%,41.960784%,47.058824%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(46.27451%,51.764706%,57.254902%);stop-opacity:1;"/>
+</linearGradient>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="62.00004" height="48" style="fill:rgb(0%,0%,0%);fill-opacity:0.2;stroke:none;"/>
+  </g>
+</mask>
+<linearGradient id="linear2" gradientUnits="userSpaceOnUse" x1="778" y1="914.21936" x2="820" y2="954.21936" gradientTransform="matrix(1,0,0,1,-766.000013,-905.219376)">
+<stop offset="0" style="stop-color:rgb(21.960784%,24.313725%,31.764706%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(39.607843%,36.078431%,43.529412%);stop-opacity:0;"/>
+</linearGradient>
+<clipPath id="clip1">
+  <rect width="71" height="57"/>
+</clipPath>
+<g id="surface6" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:evenodd;fill:url(#linear2);" d="M 62 9 L 62 28 L 36 28 L 36 30 L 62 30 L 62 49 L 36 49 L 36 11 L 34 9 L 34 28 L 8 28 L 10 30 L 34 30 L 34 49 L 8 49 L 12 53 L 66 53 L 66 13 Z M 62 9 "/>
+</g>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 0 0 L 62 0 L 62 48 C 62 48 62 18.78125 62 33.390625 L 62 48 L 0 48 Z M 0 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(18.039216%,19.215686%,19.607843%);fill-opacity:0.294118;" d="M 0 47 L 62 47 L 62 48 L 0 48 Z M 0 47 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0.411765;" d="M 0 0 L 62 0 L 62 1 L 0 1 Z M 0 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear1);" d="M 4 4 L 4 23 L 30 23 L 30 4 Z M 32 4 L 32 23 L 58 23 L 58 4 Z M 4 25 L 4 44 L 30 44 L 30 25 Z M 32 25 L 32 44 L 58 44 L 58 25 Z M 32 25 "/>
+<use xlink:href="#surface6" transform="matrix(1,0,0,1,-4,-5)" mask="url(#mask0)"/>
+</g>
+</svg>

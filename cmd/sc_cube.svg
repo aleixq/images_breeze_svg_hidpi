@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12.000005pt" height="12.000012pt" viewBox="0 0 12.000005 12.000012" version="1.1">
+<defs>
+<radialGradient id="radial0" gradientUnits="userSpaceOnUse" cx="29.425781" cy="6.828182" fx="29.425781" fy="6.828182" r="8" gradientTransform="matrix(-0.65625,-0.00000001,0.00000001,-0.75,29.060673,7.371154)">
+<stop offset="0" style="stop-color:rgb(70.196078%,70.196078%,70.196078%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(30.196078%,30.196078%,30.196078%);stop-opacity:0.470588;"/>
+</radialGradient>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(70.196078%,70.196078%,70.196078%);fill-opacity:1;" d="M 0 2.25 L 9.75 2.25 L 9.75 12 L 0 12 Z M 0 2.25 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(30.196078%,30.196078%,30.196078%);fill-opacity:1;" d="M 9.75 12 L 12 9.75 L 12 0 L 2.25 0 L 0 2.25 L 9.75 2.25 Z M 9.75 12 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:url(#radial0);" d="M 2.25 0 L 0 2.25 L 0 12 L 9.75 12 L 12 9.75 L 12 0 Z M 2.25 0 "/>
+</g>
+</svg>

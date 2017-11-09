@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="89.60129pt" height="112.00002pt" viewBox="0 0 89.60129 112.00002" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="560.78583" y1="785.70648" x2="560.78583" y2="727.70654" gradientTransform="matrix(2.036363,0,0,1.931036,-1097.16306,-1405.22752)">
+<stop offset="0" style="stop-color:rgb(14.901961%,76.078431%,50.588235%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(24.705882%,76.470588%,50.196078%);stop-opacity:1;"/>
+</linearGradient>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="89.60129" height="112.00002" style="fill:rgb(0%,0%,0%);fill-opacity:0.2;stroke:none;"/>
+  </g>
+</mask>
+<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="41.600032" y1="965.962204" x2="86.400032" y2="1010.762204" gradientTransform="matrix(1,0,0,1,0.80064,-924.36218)">
+<stop offset="0" style="stop-color:rgb(21.960784%,24.313725%,31.764706%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(39.607843%,36.078431%,43.529412%);stop-opacity:0;"/>
+</linearGradient>
+<clipPath id="clip1">
+  <rect width="129" height="128"/>
+</clipPath>
+<g id="surface6" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:evenodd;fill:url(#linear1);" d="M 42.402344 41.601562 L 42.402344 86.398438 L 73.199219 120 L 109.601562 120 L 109.601562 64 L 87.199219 41.601562 Z M 42.402344 41.601562 "/>
+</g>
+<linearGradient id="linear2" gradientUnits="userSpaceOnUse" x1="66.800032" y1="1010.762096" x2="66.800032" y2="965.962096" gradientTransform="matrix(1,0,0,1,-19.19936,-932.36218)">
+<stop offset="0" style="stop-color:rgb(43.921569%,89.411765%,70.196078%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(78.431373%,94.117647%,86.27451%);stop-opacity:1;"/>
+</linearGradient>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 0.0273438 0 C 0.0117188 0 0 9.992188 0 22.398438 L 0 89.601562 C 0 102.007812 0.0117188 112 0.0273438 112 L 89.574219 112 C 89.589844 112 89.601562 102.007812 89.601562 89.601562 L 89.601562 33.601562 L 56 0 Z M 0.0273438 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(18.039216%,19.215686%,19.607843%);fill-opacity:0.294118;" d="M 0 109.199219 L 89.601562 109.199219 L 89.601562 112 L 0 112 Z M 0 109.199219 "/>
+<use xlink:href="#surface6" transform="matrix(1,0,0,1,-20,-8)" mask="url(#mask0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear2);" d="M 22.402344 33.601562 L 22.402344 78.398438 L 67.199219 78.398438 L 67.199219 33.601562 Z M 25.199219 36.398438 L 64.402344 36.398438 L 64.402344 42 L 25.199219 42 Z M 25.199219 44.800781 L 33.601562 44.800781 L 33.601562 50.398438 L 25.199219 50.398438 Z M 36.402344 44.800781 L 53.199219 44.800781 L 53.199219 50.398438 L 36.402344 50.398438 Z M 56 44.800781 L 64.402344 44.800781 L 64.402344 50.398438 L 56 50.398438 Z M 25.199219 53.199219 L 33.601562 53.199219 L 33.601562 58.800781 L 25.199219 58.800781 Z M 36.402344 53.199219 L 53.199219 53.199219 L 53.199219 58.800781 L 36.402344 58.800781 Z M 56 53.199219 L 64.402344 53.199219 L 64.402344 58.800781 L 56 58.800781 Z M 25.199219 61.601562 L 33.601562 61.601562 L 33.601562 67.199219 L 25.199219 67.199219 Z M 36.402344 61.601562 L 53.199219 61.601562 L 53.199219 67.199219 L 36.402344 67.199219 Z M 56 61.601562 L 64.402344 61.601562 L 64.402344 67.199219 L 56 67.199219 Z M 25.199219 70 L 33.601562 70 L 33.601562 75.601562 L 25.199219 75.601562 Z M 36.402344 70 L 53.199219 70 L 53.199219 75.601562 L 36.402344 75.601562 Z M 56 70 L 64.402344 70 L 64.402344 75.601562 L 56 75.601562 Z M 56 70 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(15.686275%,59.215686%,41.176471%);fill-opacity:1;" d="M 89.574219 27.972656 C 89.589844 27.949219 89.601562 21.742188 89.601562 14 C 89.601562 6.242188 89.589844 0 89.574219 0 L 61.628906 0 C 61.628906 0 61.628906 0.0273438 61.628906 0.0273438 Z M 89.574219 27.972656 "/>
+</g>
+</svg>

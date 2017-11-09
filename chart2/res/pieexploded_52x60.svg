@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60pt" height="52pt" viewBox="0 0 60 52" version="1.1">
+<defs>
+<radialGradient id="radial0" gradientUnits="userSpaceOnUse" cx="30" cy="1026.3622" fx="30" fy="1026.3622" r="23" gradientTransform="matrix(1,0,0,1,0,-1000.3622)">
+<stop offset="0" style="stop-color:rgb(13.333333%,65.490196%,94.117647%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(9.803922%,70.980392%,99.607843%);stop-opacity:1;"/>
+</radialGradient>
+<radialGradient id="radial1" gradientUnits="userSpaceOnUse" cx="30" cy="21.246092" fx="30" fy="21.246092" r="16.253906" gradientTransform="matrix(-1.415045,0,0,-1.415044,72.45133,56.0642)">
+<stop offset="0" style="stop-color:rgb(96.470588%,14.117647%,34.901961%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(96.862745%,21.568627%,40.784314%);stop-opacity:1;"/>
+</radialGradient>
+</defs>
+<g id="surface1">
+<rect x="0" y="0" width="60" height="52" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#radial0);" d="M 30 3 C 17.296875 3 7 13.296875 7 26 C 7.011719 31.75 9.175781 37.285156 13.070312 41.519531 L 29.292969 25.292969 L 30 24.609375 L 30.707031 25.292969 L 46.925781 41.511719 C 50.816406 37.28125 52.984375 31.746094 53 26 C 53 13.296875 42.703125 3 30 3 Z M 30 3 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:url(#radial1);" d="M 30 27.414062 L 14.488281 42.925781 C 18.71875 46.816406 24.253906 48.984375 30 49 C 35.75 48.988281 41.285156 46.824219 45.519531 42.933594 Z M 30 27.414062 "/>
+</g>
+</svg>

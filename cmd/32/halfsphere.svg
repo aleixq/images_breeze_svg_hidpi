@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24pt" height="18pt" viewBox="0 0 24 18" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="4" y1="19" x2="22" y2="19" gradientTransform="matrix(1,0,0,1,-4,-7)">
+<stop offset="0" style="stop-color:rgb(70.196078%,70.196078%,70.196078%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(30.196078%,30.196078%,30.196078%);stop-opacity:1;"/>
+</linearGradient>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="24" height="18" style="fill:rgb(0%,0%,0%);fill-opacity:0.988235;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect width="33" height="33"/>
+</clipPath>
+<g id="surface6" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(30.196078%,30.196078%,30.196078%);fill-opacity:1;" d="M 16 7 C 9.371094 7 4 9.6875 4 13 C 4 16.3125 9.371094 19 16 19 C 22.628906 19 28 16.3125 28 13 C 28 9.6875 22.628906 7 16 7 Z M 16 7 "/>
+</g>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:url(#linear0);" d="M 0.046875 6.609375 C 0.367188 12.949219 5.578125 18 12 18 C 18.421875 18 23.632812 12.949219 23.953125 6.609375 C 23.339844 9.636719 18.214844 12 12 12 C 5.785156 12 0.660156 9.636719 0.046875 6.609375 Z M 0.046875 6.609375 "/>
+<use xlink:href="#surface6" transform="matrix(1,0,0,1,-4,-7)" mask="url(#mask0)"/>
+</g>
+</svg>

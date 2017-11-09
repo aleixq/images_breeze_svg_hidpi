@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60pt" height="52pt" viewBox="0 0 60 52" version="1.1">
+<defs>
+<radialGradient id="radial0" gradientUnits="userSpaceOnUse" cx="15.5" cy="1010.86225" fx="15.5" fy="1010.86225" r="4.5" gradientTransform="matrix(1,0,0,1,0,-1000.3622)">
+<stop offset="0" style="stop-color:rgb(96.470588%,14.117647%,34.901961%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(96.862745%,21.568627%,40.784314%);stop-opacity:1;"/>
+</radialGradient>
+<radialGradient id="radial1" gradientUnits="userSpaceOnUse" cx="31" cy="1036.3623" fx="31" fy="1036.3623" r="6" gradientTransform="matrix(1,0,0,1,0,-1000.3622)">
+<stop offset="0" style="stop-color:rgb(96.470588%,14.117647%,34.901961%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(96.862745%,21.568627%,40.784314%);stop-opacity:1;"/>
+</radialGradient>
+<radialGradient id="radial2" gradientUnits="userSpaceOnUse" cx="49" cy="1012.3623" fx="49" fy="1012.3623" r="3" gradientTransform="matrix(1,0,0,1,0,-1000.3622)">
+<stop offset="0" style="stop-color:rgb(96.470588%,14.117647%,34.901961%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(96.862745%,21.568627%,40.784314%);stop-opacity:1;"/>
+</radialGradient>
+<radialGradient id="radial3" gradientUnits="userSpaceOnUse" cx="13.5" cy="1034.86225" fx="13.5" fy="1034.86225" r="4.5" gradientTransform="matrix(1,0,0,1,0,-1000.3622)">
+<stop offset="0" style="stop-color:rgb(13.333333%,65.490196%,94.117647%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(9.803922%,70.980392%,99.607843%);stop-opacity:1;"/>
+</radialGradient>
+<radialGradient id="radial4" gradientUnits="userSpaceOnUse" cx="29.499998" cy="1013.86225" fx="29.499998" fy="1013.86225" r="4.5" gradientTransform="matrix(1,0,0,1,0,-1000.3622)">
+<stop offset="0" style="stop-color:rgb(13.333333%,65.490196%,94.117647%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(9.803922%,70.980392%,99.607843%);stop-opacity:1;"/>
+</radialGradient>
+<radialGradient id="radial5" gradientUnits="userSpaceOnUse" cx="49.000001" cy="1024.3623" fx="49.000001" fy="1024.3623" r="6" gradientTransform="matrix(1,0,0,1,0,-1000.3622)">
+<stop offset="0" style="stop-color:rgb(13.333333%,65.490196%,94.117647%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(9.803922%,70.980392%,99.607843%);stop-opacity:1;"/>
+</radialGradient>
+</defs>
+<g id="surface1">
+<rect x="0" y="0" width="60" height="52" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(30.196078%,30.196078%,30.196078%);fill-opacity:1;" d="M 3 45 L 55 45 L 55 46 L 3 46 Z M 3 45 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(30.196078%,30.196078%,30.196078%);fill-opacity:1;" d="M 6 3 L 7 3 L 7 49 L 6 49 Z M 6 3 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#radial0);" d="M 20 10.5 C 20 12.984375 17.984375 15 15.5 15 C 13.015625 15 11 12.984375 11 10.5 C 11 8.015625 13.015625 6 15.5 6 C 17.984375 6 20 8.015625 20 10.5 Z M 20 10.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#radial1);" d="M 37 36 C 37 39.3125 34.3125 42 31 42 C 27.6875 42 25 39.3125 25 36 C 25 32.6875 27.6875 30 31 30 C 34.3125 30 37 32.6875 37 36 Z M 37 36 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#radial2);" d="M 52 12 C 52 13.65625 50.65625 15 49 15 C 47.34375 15 46 13.65625 46 12 C 46 10.34375 47.34375 9 49 9 C 50.65625 9 52 10.34375 52 12 Z M 52 12 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#radial3);" d="M 18 34.5 C 18 36.984375 15.984375 39 13.5 39 C 11.015625 39 9 36.984375 9 34.5 C 9 32.015625 11.015625 30 13.5 30 C 15.984375 30 18 32.015625 18 34.5 Z M 18 34.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#radial4);" d="M 34 13.5 C 34 15.984375 31.984375 18 29.5 18 C 27.015625 18 25 15.984375 25 13.5 C 25 11.015625 27.015625 9 29.5 9 C 31.984375 9 34 11.015625 34 13.5 Z M 34 13.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#radial5);" d="M 55 24 C 55 27.3125 52.3125 30 49 30 C 45.6875 30 43 27.3125 43 24 C 43 20.6875 45.6875 18 49 18 C 52.3125 18 55 20.6875 55 24 Z M 55 24 "/>
+</g>
+</svg>
