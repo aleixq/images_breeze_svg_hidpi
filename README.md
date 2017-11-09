@@ -6,7 +6,8 @@ For Svg to work target libreoffice must contain  the changes explained in https:
 What's different with the original icon set:
 * Crop all svg images using svgclip from https://github.com/skagedal/svgclip : 
   `find . -type f -exec svgclip.py {} -o {} \;`
-* Adapt the links.txt to get the svg images, based on https://cgit.freedesktop.org/libreoffice/core/tree/icon-themes/breeze/links.txt and replacing last png to svg everywhere ( %s/\.png$/.svg/g ).
+* Adapt the links.txt to get the svg images, based on https://cgit.freedesktop.org/libreoffice/core/tree/icon-themes/breeze/links.txt and replacing last png to svg everywhere:
+`sed -i '%s/\.png$/.svg/g' links.txt` 
 
 ## Install 
 Just place the zip in icons-set directory. Maybe somewhere in:
