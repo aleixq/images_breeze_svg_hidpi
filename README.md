@@ -10,7 +10,7 @@ What's different with the original icon set:
 `sed -i '%s/\.png$/.svg/g' links.txt` 
 
 ## Install 
-Just place the zip in icons-set directory. Maybe somewhere in:
+Clone and zip without root directory and place the zip in icons-set directory. Maybe somewhere in:
 `/opt/libreofficedev6.0/share/config/`
 or
 `/usr/share/libreoffice/share/config/`
