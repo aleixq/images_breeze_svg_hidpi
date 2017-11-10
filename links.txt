@@ -73,6 +73,7 @@ cmd/lc_insertrowbreak.png cmd/lc_insertpagebreak.svg
 cmd/lc_insertrowsbefore.png cmd/lc_insertrows.svg
 cmd/lc_insertspreadsheet.png cmd/lc_togglesheetgrid.svg
 cmd/lc_inserttimefield.png cmd/lc_timefield.svg
+cmd/lc_charmapcontrol.png cmd/lc_insertsymbol.svg
 
 cmd/sc_insobjctrl.png cmd/sc_newdoc.svg
 cmd/sc_insert.png cmd/sc_togglesheetgrid.svg
@@ -114,6 +115,7 @@ cmd/sc_showtrackedchanges.png cmd/sc_addwatch.svg
 cmd/lc_showtrackedchanges.png cmd/lc_addwatch.svg
 cmd/sc_tracechangemode.png cmd/sc_trackchanges.svg
 cmd/lc_tracechangemode.png cmd/lc_trackchanges.svg
+cmd/sc_charmapcontrol.png cmd/sc_insertsymbol.svg
 
 # Zoom
 cmd/lc_previewzoom.png cmd/lc_zoomprevious.svg
@@ -1372,8 +1374,8 @@ xmlsecurity/res/key_12.png dbaccess/res/pkey.svg
 xmlsecurity/res/signet_11x16.png xmlsecurity/res/notcertificate_16.svg
 
 cmd/lc_columnoperations.png cmd/lc_entirecolumn.svg
-cmd/sc_columnoperations.png cmd/sc_entirecolumn.png 
-cmd/lc_rowoperations.png cmd/lc_entirerow.png 
+cmd/sc_columnoperations.png cmd/sc_entirecolumn.svg
+cmd/lc_rowoperations.png cmd/lc_entirerow.svg
 cmd/sc_rowoperations.png cmd/sc_entirerow.svg
 
 cmd/sc_cellprotection.png cmd/sc_protect.svg
